@@ -1,4 +1,4 @@
-﻿
+
 ![](http://images.restapi.co.za/pvt/Noroff-64.png)
 # Noroff
 ## Back-end Development Year 1
